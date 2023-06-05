@@ -60,5 +60,5 @@ genteMex.sort(key=ordena)
 print(genteMex)
 
 #USANDO LAMBDA
-genteMex.sort(key=lambda elemento: elemento[0])
+genteMex.sort(key=lambda elemento: elemento[0])#LAMBA AHORRA LA CREACION DE UN METODO QUE NUNCA SE VA A CAMBIAR
 print(genteMex)

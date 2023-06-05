@@ -1,0 +1,11 @@
+#SET'S CON CORCHETES
+numeros={1,1,1,5,5,5,2,3,4}#NO MUESTRA LOS REPETIDOS
+print(numeros)
+
+#CONVERTIR UNA LISTA EN SET
+lista=[5,5,5,52,1,1,1,1]
+print(lista)
+lista2=set(lista)
+print(lista2)
+
+#NO SE PUEDE ACCEDER A LOS SETS, SOLO PREGUNTAR LA EXISTENCIA

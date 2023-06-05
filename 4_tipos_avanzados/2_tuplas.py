@@ -1,0 +1,17 @@
+#LAS TUPLAS INDICAN QUE ESTE CONJUNTO O SECUENCIA DE DATOS, NO SERÁ MODIFICADA
+#TUPLAS, PARENTESIS
+numeros = (1,2,3,4,5)
+
+#CONVIRTIENDO UNA LISTA EN UNA TUPLA
+listaX = [ 9,8,7,6]
+modificada=tuple(listaX)
+modificada2=tuple([9,8,7,6])
+print(modificada)
+print(modificada2)
+print(listaX)
+
+
+#EN CASO DE QUERER MODIFICAR LA TUPLA, DEBE CONVERTIRSE PRIMERO EN LISTA
+
+
+
